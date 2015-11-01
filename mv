@@ -1,1 +1,5 @@
 The mv command is used to move files and can also be used to rename files.
+The cp command is used to copy files to a new location, the new file can be renamed differently to the copied file
+The grep command is used to search text or files to find lines or files that match the words or phrases given.
+The wc command is used to show the word count of a file, it can also be used to show the line count, character count, byte count, or the length of the longest line. 
+The ps command is used to show the processes that are currently running.
